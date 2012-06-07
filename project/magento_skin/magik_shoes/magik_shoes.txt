@@ -1,0 +1,2 @@
+this theme is designed for just to take,
+first overview of magento frontend structure and its file structure  
